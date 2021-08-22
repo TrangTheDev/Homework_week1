@@ -1,3 +1,5 @@
+
+/**Header styling**/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -47,6 +49,7 @@ p {
     font-size: 16px;
 }
 
+/**Hero Image Styling**/
 .hero {
     height: 800px;
     width: 100%;
@@ -55,6 +58,7 @@ p {
     background-size: cover;
     }
 
+/**Article Styling**/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -71,6 +75,7 @@ p {
     margin-left: 20px;
 }
 
+/**Benefit Styling**/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -117,6 +122,7 @@ p {
     font-size: 36px;
 }
 
+/**Footer Styling**/
 .footer {
     padding: 30px;
     clear: both;
